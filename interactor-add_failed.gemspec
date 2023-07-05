@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
     The problem this gem is solving is how to check which interactor has failed 
     when the error message is not obvious
   DESC
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/ArturGin/interactor-add_failed"
   spec.license       = "MIT"
 
   spec.metadata = {
